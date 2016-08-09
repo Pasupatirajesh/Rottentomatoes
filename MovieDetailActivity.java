@@ -18,7 +18,7 @@ import java.util.ArrayList;
  */
 public class MovieDetailActivity extends YouTubeBaseActivity
 {
-    private final static String YOUTUBE_API_KEY = "AIzaSyAtLg3ial3Q9uHLczkzUBL-R-b75EKkN1M";
+    private final static String YOUTUBE_API_KEY = "Your API KEY";
     private Movie mMovie;
     private TextView mTextView;
     public static int id;
