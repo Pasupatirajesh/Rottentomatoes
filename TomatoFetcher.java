@@ -22,7 +22,7 @@ import javax.net.ssl.HttpsURLConnection;
 public class TomatoFetcher
 {
     public static final String TAG = "TomatoFetcher";
-    public static final String API_KEY = "0c8e96b68c5e24e2ee85490b30b0e383";
+    public static final String API_KEY = "Your API KEY";
     private URL url;
     public TomatoFetcher()
     {
